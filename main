@@ -52,7 +52,7 @@ public class MultiHashGeneratorAndCrackerGUI {
         frame = new JFrame("Multi-Hash Generator and Password Cracker");
 
         // Load the custom icon image (replace with your image path)
-        final ImageIcon icon = new ImageIcon("D:\\projects\\password\\hash.png");
+        final ImageIcon icon = new ImageIcon("custom_icon.png"); //use your desired icon by replacing custom_icon.png with your icon's path.
         frame.setIconImage(icon.getImage());
 
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
