@@ -19,8 +19,7 @@ This is a Java Swing application that allows users to generate hash values for i
 
 1. Clone the repository to your local machine:
 
-   ```sh
-   git clone https://github.com/Lucivln/Hash_Generator_Cracker.git
+https://github.com/Lucivln/Hash_Generator_Cracker.git
 
 2. Open the project in your preferred Java IDE (Eclipse, IntelliJ IDEA, VSCode, etc.).
 
