@@ -190,7 +190,7 @@ public class MultiHashGeneratorAndCrackerGUI {
 
     private void toggleDarkMode() {
         boolean darkModeEnabled = darkModeCheckBox.isSelected();
-        Color backgroundColor = darkModeEnabled ? Color.BLACK : Color.WHITE; // Change dark gray to black
+        Color backgroundColor = darkModeEnabled ? Color.BLACK : Color.WHITE;
         Color textColor = darkModeEnabled ? Color.WHITE : Color.BLACK;
 
         // Apply dark mode to Hash Generator panel
