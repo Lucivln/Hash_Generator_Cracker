@@ -11,7 +11,9 @@ This is a Java Swing application that allows users to generate hash values for i
   - SHA-384
   - SHA-512
 
-- **Password Cracking**: Users can attempt to crack a hashed password by providing a target hash and a dictionary file containing potential passwords. The supported hash algorithms for password cracking are MD5 and SHA-1.
+- **Password Cracking**: Users can attempt to crack a hashed password by providing a target hash and a dictionary file containing potential passwords. The supported hash algorithms for password cracking:
+  - MD5
+  - SHA-1
 
 - **Dark Mode**: The application provides a dark mode option for improved readability in low-light environments.
 
